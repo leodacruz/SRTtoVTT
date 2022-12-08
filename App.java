@@ -25,6 +25,11 @@ public class App {
         }
          System.out.println("Genio da computação, conversão realizada com sucesso");
        }
+
+       System.out.println("Precione qualquer tecla+enter para sair");
+       Scanner in = new Scanner(System.in); 
+       in.next();
+       
     }
 
     public static ArrayList<String> pegaTodosSrt() {
