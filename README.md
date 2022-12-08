@@ -18,3 +18,5 @@ depois lidar com a leitura de arquivos
 
 
 Mudanças de planos, fazer em python
+mudança. fazer em c mas sem a parte do usuario
+mudança fazer em java
