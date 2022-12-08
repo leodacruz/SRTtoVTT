@@ -17,3 +17,4 @@ Primeiro, modificar o programa em C a ficar direitinho.
 depois lidar com a leitura de arquivos
 
 
+Mudanças de planos, fazer em python
