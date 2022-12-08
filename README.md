@@ -11,5 +11,9 @@ VTT:  texto salvo no formato Web Video Text Tracks
 SRT-->VTT: Praticamente é trocar virgulas por pontos no tempo, e colocar o webvtt no inicio
 
 dificuldades:
-interação com o usuario e ler e salvar arquivos em C
+interação com o usuario e ler e salvar arquivos em C.
+
+Primeiro, modificar o programa em C a ficar direitinho. 
+depois lidar com a leitura de arquivos
+
 
