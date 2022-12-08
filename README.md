@@ -1,22 +1,17 @@
+Autor: Leonardo Cruz 
+Data: 08/Dezembro/2022
+Primeiro projeto pessoal
+
 # SRTforVTT
-Primeiro projeto pessoal para desenvolver um programa que converta um arquivo no formato srt para vtt
+O programa visa converter varios arquivos do tipo SRT para VTT. 
 
-decisões: sera feito em C, e pode usar uma interface mais agradavel para usuarios comuns
-Foi copiado o mesmo codigo do programa do trabalho 1 de Programação em baixo nivel pois tem 
-a inteerface grafica
+Inspiração veio do problema encontrado em colocar legendas nos filmes/series que possuo no one drive, visto
+que ele só aceita a versão VTT.
 
-Entendimento sobre arquivo do tipo VTT e SRT
-VTT:  texto salvo no formato Web Video Text Tracks
+O programa inicialmente seria desenvolvido em C, mas por problemas na implementação foi feita a troca para Java,pois
+ possuia maior habilidade em Java.
 
-SRT-->VTT: Praticamente é trocar virgulas por pontos no tempo, e colocar o webvtt no inicio
-
-dificuldades:
-interação com o usuario e ler e salvar arquivos em C.
-
-Primeiro, modificar o programa em C a ficar direitinho. 
-depois lidar com a leitura de arquivos
-
-
-Mudanças de planos, fazer em python
-mudança. fazer em c mas sem a parte do usuario
-mudança fazer em java
+Possiveis versões futuras:
+Modelar para que consiga escolher a conversão vtt para srt// vtt para srt
+Modelar num padrão de camadas
+Adicionar mais tipos de conversão
