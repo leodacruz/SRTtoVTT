@@ -2,7 +2,7 @@ Autor: Leonardo Cruz
 Data: 08/Dezembro/2022
 Primeiro projeto pessoal
 
-# SRTforVTT
+# SRTtoVTT
 O programa visa converter varios arquivos do tipo SRT para VTT. 
 
 Inspiração veio do problema encontrado em colocar legendas nos filmes/series que possuo no one drive, visto
